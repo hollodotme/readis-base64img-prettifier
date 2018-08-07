@@ -5,12 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/) and [Keep a CH
 
 ## [1.0.0] - YYYY-MM-DD
 
-### Added
-
-### Changed
-
-### Fixed
-
+First stable version.
 
 
 [1.0.0]: https://github.com/hollodotme/readis-base64img-prettifier/tree/v1.0.0

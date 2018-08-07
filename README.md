@@ -7,7 +7,7 @@
 
 ## Description
 
-A prettifier for base64 image data
+A [readis](https://github.com/hollodotme/readis) prettifier for base64 image data
 
 ## Installation
 
@@ -16,6 +16,8 @@ composer require hollodotme/readis-base64img-prettifier
 ```
 
 ## Usage
+
+Please have a look at the [readis documentation](https://github.com/hollodotme/readis) how to enable custom prettifiers.
 
 ## Contributing
 
